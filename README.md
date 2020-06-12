@@ -64,6 +64,22 @@ It involves observation and analysis of more than one statistical outcome variab
 
 
 
+## EDA Project in this Repository
+
+- #### [Black Friday Data Analysis](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Black%20Friday%20Data%20Analysis)
+
+- #### [Finding the Best Markets to Advertise](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Finding%20the%20Best%20Markets%20to%20Advertise)
+
+- #### [Hotel_Bookings_Data_Analysis](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Hotel_Bookings_Data_Analysis)
+
+- #### [Import and Export by India](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Import%20and%20Export%20by%20India)
+
+- #### [Retail_Data_Analysis](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Retail_Data_Analysis)
+
+- #### [Telco-customer-churn-Analysis](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Telco-customer-churn-Analysis)
+
+- #### [Used-cars-price-prediction](https://github.com/kanasepratik/Exploratory-Data-Analysis-Projects_1/tree/master/Used-cars-price-prediction)
+
 
 
 
